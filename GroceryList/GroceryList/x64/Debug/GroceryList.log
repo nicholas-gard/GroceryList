@@ -1,0 +1,4 @@
+﻿  GroceryList.cpp
+H:\Documents\college\prog languages\GroceryList\GroceryList\GroceryList.cpp(215,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+H:\Documents\college\prog languages\GroceryList\GroceryList\GroceryList.cpp(217,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  GroceryList.vcxproj -> H:\Documents\college\prog languages\GroceryList\x64\Debug\GroceryList.exe
